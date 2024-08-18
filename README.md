@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Moiz</h1>
 <h3 align="center">A skilled Web Developer</h3>
-<p style="text-align:left; margin:auto; font-size:24px;">
-- 👨‍💻 I’m a Web Developer specializing in WordPress front-end and back-end.<br>
+<p align="center">
+- 👨‍💻 I’m a Web Developer specializing in WordPress front-end and back-end.
 - 🛠️ I craft custom plugins.<br>
-- 💻 Expertise in HTML, CSS, JavaScript (JS), PHP.<br>
+- 💻 Expertise in HTML, CSS, JavaScript (JS), PHP.
 - 🎨 I also have design knowledge in Canva and Figma, though not professionally.<br>
 - 🌱 I’m always exploring new tools and techniques to enhance my skills.<br>
 - 📫 Reach me at <a href="mailto:mianmioz899@gmail.com">mianmoiz899@gmail.com</a></p>
