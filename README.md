@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Moiz</h1>
 <h3 align="center">A skilled Web Developer</h3>
-<p style="text-align:center; margin:auto;">
+<p style="text-align:left; margin:auto; font-size:24px;">
 - 👨‍💻 I’m a Web Developer specializing in WordPress front-end and back-end.<br>
 - 🛠️ I craft custom plugins.<br>
 - 💻 Expertise in HTML, CSS, JavaScript (JS), PHP.<br>
