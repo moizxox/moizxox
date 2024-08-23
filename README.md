@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moizxox&" alt="moizxox" /></p>
 <br>
-<img src="https://raw.githubusercontent.com/moizxox/moizxox/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/moizxox/moizxox/output/snake.svg" alt="Snake animation" /> -->
 
 
 <!---
