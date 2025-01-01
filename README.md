@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Moiz</h1>
-<h3 align="center">A skilled Web Developer</h3>
-# 💫 About Me:
+<h1 align="left">Hi 👋, I'm Muhammad Moiz</h1>
+<h3 align="left">A skilled Web Developer</h3>
+💫 About Me:
 🔭 Hello I am Web Developer <br>🤝I'm looking to collaborate on various projects to expand my experience and network. <br>🌱 I’m currently learning React.JS <br>💬 Ask me about front-end development, web design, or anything tech-related! <br>⚡ I'm passionate about building innovative and user-friendly websites that make a difference.<br>
 
 
