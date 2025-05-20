@@ -4,14 +4,6 @@
 🔭 I’m currently doing <b>DSA</b> and learning TS<br>🌱 I’m growing my skills in <b>MERN Backend</b><br>🤝 Reach me out if need any kind of help <a href="mailto:mianmoiz899@gmail.com">mianmoiz899@gmail.com</a><br>💬 Ask me about Frontend, React, Express and Wordpress<br>⚡ Fun fact : I love to learn new Techs.
 
 <br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=moizxox&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moizxox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVzbGV3ODZ6NHNkZWl4YWJxbDA2ZHRybm1jbnRncm81NjNwdnUwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 
 ###
@@ -28,37 +20,46 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=moizxox&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moizxox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
