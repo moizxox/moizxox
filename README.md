@@ -1,9 +1,11 @@
 <h1 align="left">Hi 👋, I'm Muhammad Moiz</h1>
 <h3 align="left">Passionate Full Stack Developer with multiple Stacks!</h3>
  💫 About Me:
-🔭 I’m currently doing DSA and learning TS<br>🌱 I’m growing my skills in MERN Backend<br>🤝 Reach me out if need any kind of help mianmoiz899@gmail.com<br>💬 Ask me about Frontend, React, Express and Wordpress<br>⚡ Fun fact : I love to learn new techs.
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=moizxox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+🔭 I’m currently doing <b>DSA</b> and learning TS<br>🌱 I’m growing my skills in <b>MERN Backend</b><br>🤝 Reach me out if need any kind of help <a href="mailto:mianmoiz899@gmail.com">mianmoiz899@gmail.com</a><br>💬 Ask me about Frontend, React, Express and Wordpress<br>⚡ Fun fact : I love to learn new Techs.
+
+<br>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=moizxox&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moizxox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
