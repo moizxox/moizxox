@@ -20,37 +20,37 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="38" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="38" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="38" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="38" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="38" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="38" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="38" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="38" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="38" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="38" alt="github logo"  />
 </div>
 
 ###
