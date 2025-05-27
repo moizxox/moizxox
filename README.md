@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Muhammad Moiz</h1>
 <h3 align="left">Passionate Full Stack Developer with multiple Stacks!</h3>
  💫 About Me:
-🔭 I’m currently doing <b>DSA</b> and learning TS<br>🌱 I’m growing my skills in <b>MERN Backend</b><br>🤝 Reach me out if need any kind of help <a href="mailto:mianmoiz899@gmail.com">mianmoiz899@gmail.com</a><br>💬 Ask me about Frontend, React, Express and Wordpress<br>⚡ Fun fact : I ❤️ to learn new Techs
+🔭 I’m currently doing <b>DSA</b> and learning TS<br>🌱 I’m growing my skills in <b>MERN Backend</b><br>🤝 Reach me out if need any kind of help <a href="mailto:mianmoiz899@gmail.com">mianmoiz899@gmail.com</a><br>💬 Ask me about Frontend, React, Express and Wordpress<br>⚡ Fun fact : I ❤️ to learn new Techs.
 
 <br>
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVzbGV3ODZ6NHNkZWl4YWJxbDA2ZHRybm1jbnRncm81NjNwdnUwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
