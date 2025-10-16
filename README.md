@@ -31,7 +31,7 @@
 
 <br>
 
-    <img src="https://usagif.com/wp-content/uploads/cat-typing-20.gif" height="200" alt="typing cat gif" />
+<img align="right" height="150" src="https://usagif.com/wp-content/uploads/cat-typing-20.gif"  />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph-dark.svg">
