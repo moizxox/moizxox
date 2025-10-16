@@ -32,11 +32,12 @@
 <br>
 
 <div align="center" style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+    <img src="https://usagif.com/wp-content/uploads/cat-typing-20.gif" height="200" alt="typing cat gif" />
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph.svg" height="200">
   </picture>
 
-  <img src="https://usagif.com/wp-content/uploads/cat-typing-20.gif" height="200" alt="typing cat gif" />
 </div>
