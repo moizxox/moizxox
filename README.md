@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💫 About Me: 🔭 I’m a skilled Full Stack Developer spercialized in Wordpress Backend & MERN.<br>🌱 I Like to explore about new tech stacks.<br>🤝 Reach me out if need any kind of help mianmoiz899@gmail.com<br>💬 Ask me about Frontend, React, Express and Wordpress.<br>🌐 Explore my <a href="https://moiz.codeletdigital.com">Portfolio</a>a></p>
+<p align="left">💫 About Me: 🔭 I’m a skilled Full Stack Developer spercialized in Wordpress Backend & MERN.<br>🌱 I Like to explore about new tech stacks.<br>🤝 Reach me out if need any kind of help mianmoiz899@gmail.com<br>💬 Ask me about Frontend, React, Express and Wordpress.<br>🌐 Explore my <a href="https://moiz.codeletdigital.com">Portfolio</a></p>
 
 ###
 
