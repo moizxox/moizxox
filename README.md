@@ -31,7 +31,6 @@
 
 <br>
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
     <img src="https://usagif.com/wp-content/uploads/cat-typing-20.gif" height="200" alt="typing cat gif" />
 
   <picture>
@@ -40,4 +39,3 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph.svg" height="200">
   </picture>
 
-</div>
