@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="left" height="203" src="https://usagif.com/wp-content/uploads/cat-typing-20.gif"  />
+<img align="left" height="203" src="https://yihui.org/en/2017/11/thanks-elio-campitelli/"  />
 
 ###
 
