@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="left" height="203" src="https://yihui.org/en/2017/11/thanks-elio-campitelli/"  />
+<img align="left" height="203" src="https://slides.yihui.org/gif/tired.gif"  />
 
 ###
 
