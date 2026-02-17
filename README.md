@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="left" height="203" src="https://slides.yihui.org/gif/tired.gif"  />
+<img align="left" height="203" src="https://media.giphy.com/media/Q42cpzgcUeZkA/source.gif"  />
 
 ###
 
@@ -47,6 +47,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph.svg">
 </picture>
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=moizxox&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" /> -->
 
 ###
