@@ -36,16 +36,8 @@
 
 <br clear="both">
 
-<img align="left" height="203" src="https://media.giphy.com/media/Q42cpzgcUeZkA/source.gif"  />
-
 ###
 
 <br clear="both">
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moizxox/moizxox/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
